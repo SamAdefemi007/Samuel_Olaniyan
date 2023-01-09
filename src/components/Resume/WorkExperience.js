@@ -23,6 +23,12 @@ const WorkExperience = () => {
 "
           />
           <ResumeCard
+            title="FrontEnd Developer"
+            timeframe="Merchbro Enterprise (Jan 2020 - May 2022)- Contract"
+            description="Built and maintained responsive interfaces for internal applications and worked with Ux designers to bring products to life.
+"
+          />
+          <ResumeCard
             title="Senior Treasury Analyst"
             timeframe="Access Bank PLC (Sep 2017 - Nov 2021)- Fulltime"
             description="Led a team that contributed more than 30% to the organization’s revenue in 2021 (the highest single contribution by a team). I was also responsible for implementing over 200m USD in Forward contract agreements with importers in Nigeria to ease FX pressures in 2021 (Awarded by EMEA as the best FX trading team in Africa, 2021).
