@@ -43,7 +43,7 @@ const Porfolio = () => {
               python,
               Postgresql,
             ]}
-            demoLink="https://shopverse.herokuapp.com/"
+            demoLink="https://shopverse-production.up.railway.app/"
             sourceCode="https://github.com/SamAdefemi007/ShopVerse"
           />
           <PorfolioCard
@@ -57,13 +57,13 @@ const Porfolio = () => {
               python,
               Mysql,
             ]}
-            demoLink="https://stat-stack.herokuapp.com/"
+            demoLink="https://stat-stack-final-production.up.railway.app/"
             sourceCode="https://github.com/SamAdefemi007/Stat-Stack-final"
           />
           <PorfolioCard
             image={Rateflix}
             technologies={[Html5, Css, BootStrap, Django, python, Mysql]}
-            demoLink="https://rate-flix.herokuapp.com/"
+            demoLink="https://web-production-ba1c.up.railway.app/"
             sourceCode="https://github.com/SamAdefemi007/RateFlix"
           />
           <PorfolioCard
